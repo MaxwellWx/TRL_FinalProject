@@ -1,4 +1,4 @@
-# TWL_FinalProject
+# TRL_FinalProject
 文本表征学习大作业仓库。
 
 预训练模型的推理、具体分析相关的代码、数据、实验记录存放在**pretrained**文件夹中。
